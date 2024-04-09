@@ -12,17 +12,7 @@ You can install these packages using pip:
 
 ```bash
 pip install numpy matplotlib
-
-## Installation
-
-Before running this simulation, ensure you have Python installed on your system. Additionally, you will need the following packages:
-- numpy
-- matplotlib
-
-You can install these packages using pip:
-
-```bash
-pip install numpy matplotlib
+```
 
 ## Curves and Result
 
