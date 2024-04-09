@@ -16,13 +16,13 @@ pip install numpy matplotlib
 
 ## Curves and Result
 
-### Inverter Operating Curve
+#### Inverter Operating Curve
 <img width="503" alt="截屏2024-04-09 01 51 17" src="https://github.com/lmqZach/Solar_PV_System_Simulation/assets/92130976/44b4e0c4-2b48-4e3e-83f9-1cdb007c4209">
 
 
-### P-V and I-V curve
+#### P-V and I-V curve
 ![Unknown](https://github.com/lmqZach/Solar_PV_System_Simulation/assets/92130976/f7d6d732-93ae-4286-95c8-16b0bf6e6540)
 
-### Optimal inverter operating range (fitted)
+#### Optimal inverter operating range (fitted)
 ![Unknown-2](https://github.com/lmqZach/Solar_PV_System_Simulation/assets/92130976/9c5fe093-cd9a-4e6f-a69b-fd60b796bf41)
 
